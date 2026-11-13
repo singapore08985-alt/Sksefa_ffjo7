@@ -1,0 +1,21 @@
+{
+ "name": "KM-Team-13c Hosting",
+ "short_name": "KM-Team",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#03060f",
+ "theme_color": "#03060f",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/logo.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
